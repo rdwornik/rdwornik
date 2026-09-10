@@ -1,18 +1,13 @@
-I am a back-end engineer based in Barcelona. Python is my working language,
-with Oracle and PL/SQL from the years I spent on large enterprise
-implementations.
+I'm a platform technology advisor at Blue Yonder and an architect by training, returning to writing software.
 
-My path is not the usual one. I started in delivery, on go-lives where the
-software either worked on Monday morning or did not. Then I moved to the
-customer side as a technology advisor, which is where I learned to ask what a
-system is actually for before asking how to build it. Now I am building again,
-with that lens.
+I started as a technical consultant on large implementations, including the Groupe PSA go-live. Then I moved to the customer side: first business development, then technology advisory on the Blue Yonder Platform for enterprise supply-chain customers.
 
-What I work on today is LLM systems and the harness around them: how you get
-a model to do useful work reliably, what you have to measure, and where the
-limits actually are. That work is not public yet.
+What I bring from that side is where I start. I begin with the value a system has to deliver and the metrics that prove it, not with the feature list.
 
-My MSc specialisation was systems architecture, and architectural
-decision-making still interests me more than any particular language.
+My MSc specialization was systems architecture, and architectural decisions interest me more than any particular language. My research looked at bias in architectural decision-making (PROFES 2021: *Is knowledge the key? An experiment on debiasing architectural decision-making*).
 
-- LinkedIn: https://www.linkedin.com/in/robert-dwornik
+Now I'm building again: my own harness for working with LLMs, multi-agent, across several repositories. I'm fascinated by what these models can do, and I try to stay clear about what they can't. That work is private for now.
+
+Python is my main language, with SQL and PL/SQL on Oracle and some JavaScript.
+
+- LinkedIn: <https://www.linkedin.com/in/robert-dwornik>
